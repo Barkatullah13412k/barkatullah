@@ -1,2 +1,2 @@
-# barkatullah
+# Barkatullah
 Website pribadi saya
